@@ -1,6 +1,6 @@
 body {
     background-color: hsl(196, 33%, 76%);
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
@@ -9,10 +9,10 @@ p {
 }
 
 h1 {
-    text-align:center;
+    text-align: center;
     color: rgb(10, 27, 10);
-    font-size:450%;
-   
+    font-size: 450%;
+
     font-family: 'Bungee', cursive;
     font-weight: 570;
     margin-top: 20px;
@@ -22,6 +22,3 @@ h1 {
 .nav-link {
     margin-right: 30px;
 }
-
-
-
